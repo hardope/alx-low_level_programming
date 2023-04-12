@@ -1,0 +1,3 @@
+[submodule "sorting_algorithms"]
+	path = sorting_algorithms
+	url = https://github.com/Trikcode/sorting_algorithms.git
